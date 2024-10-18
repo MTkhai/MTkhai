@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭I'm doing it myself <br>🔎I'm searching for advanced coding like Chrome extension or therejs3D website<br>💻I'm in love with coding<br>📖Even though I'm lazy, I still try<br>💟  I'm in love with other<br>💡 I'm a little lazy but smart<br>
+🔭I'm doing it myself <br>🔎I'm searching for advanced coding like Chrome extension or therejs3D website<br>💻I'm in love with coding<br>📖Even though I'm lazy, I still try<br>💟  I'm in love with other<br>💡 I'm lazy <br>
 
 
 ## 🌐 Socials:
